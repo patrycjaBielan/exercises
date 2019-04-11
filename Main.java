@@ -33,7 +33,7 @@ public class Main {
         }
 
 
-//        Animal animal1=new Animal("Zwierze");   zmiana na klase abstrakcyjna
+//        Animal animal1=new Animal("Zwierze");   zmieniono na klase abstrakcyjna
 //        cat.sayMyName();
 //        dog.sayMyName();
 //
